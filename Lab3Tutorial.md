@@ -1,5 +1,5 @@
 
-# create the answer to this lab an explain each section and what is being done in simple terms for a new C++ student
+# Lab # Vectors
 
 Here’s a step-by-step explanation and sample solution for the lab “C++ Programming: Vectors and Sorting.” This guide breaks down each section and explains what is happening in simple terms for a new C++ student.
 
